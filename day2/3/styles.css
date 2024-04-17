@@ -1,0 +1,9 @@
+.image-input {
+    width: 200px; /* Set the width of the input field */
+    height: 200px; /* Set the height of the input field */
+    background-image: url('location.jpg'); /* Set the background image */
+    background-size: cover; /* Cover the entire input field with the background image */
+    background-position: center; /* Center the background image */
+    border: none; /* Optionally, remove the border */
+    outline: none; /* Optionally, remove the outline */
+  }
